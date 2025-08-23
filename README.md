@@ -6,6 +6,8 @@ Este es un bot de Telegram diseñado para ayudar a las comunidades a gestionar y
 
 Cuando los miembros de un grupo de Telegram envían fotos o videos, este bot los carga automáticamente en una carpeta específica de Google Drive que funciona como un "álbum" para el grupo. Solo un álbum puede estar activo a la vez. El bot se gestiona a través de comandos y una interfaz de chat privado.
 
+![Foto](/Foto.webp)
+
 ## Características
 
 -   **Carga automática:** Sube automáticamente las fotos y videos enviados a un grupo de Telegram a la carpeta de Google Drive designada.
@@ -17,6 +19,9 @@ Cuando los miembros de un grupo de Telegram envían fotos o videos, este bot los
 ## Comandos
 
 -   `/start` o `/help`: Muestra un mensaje de ayuda inicial.
+
+![Help](/Help.webp)
+
 -   `/albums`: Inicia el proceso de gestión de álbumes para el grupo actual. Este comando debe ejecutarse en un chat de grupo, pero la configuración continúa en un chat privado con el bot.
 
 ## Uso
