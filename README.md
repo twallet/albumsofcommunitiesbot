@@ -66,4 +66,6 @@ Para desplegar tu propia instancia de este bot, sigue estos pasos:
     -   En el chat privado, podrás crear un nuevo álbum.
     -   El bot te pedirá un nombre para el álbum.
     -   Luego, te pedirá la URL de una carpeta de Google Drive. **Importante:** Debes asegurarte de que el bot tenga permisos de edición en esa carpeta. Para ello, comparte la carpeta con la cuenta de Google con la que creaste el proyecto de Apps Script.
-4.  **Activar un álbum:** Una vez creado, puedes activarlo. Las fotos y videos que se envíen al grupo a partir de ese momento se subirán a esa carpeta.
+4.  **Activar un álbum:** Una vez creado, puedes activarlo. Las fotos y videos que se envíen al grupo a partir de ese momento se subirán a esa carpeta (límite de 25Mb por elemento). Cualquier miembro del grupo de Telegram puede eliminar una foto o video que fue subido a un albúm.
+
+[Más Información](https://thomaswallet.substack.com/publish/post/160280277)
