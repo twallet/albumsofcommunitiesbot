@@ -1,4 +1,4 @@
-Creative Commons Attribution-NonCommercial 4.0 International Public License
+**Creative Commons Attribution-NonCommercial 4.0 International Public License**
 
 By using this software, you accept and agree to be bound by the terms of this license.
 
@@ -14,4 +14,4 @@ No additional restrictions — You may not apply legal terms or technological me
 
 See the full license at: [https://creativecommons.org/licenses/by-nc/4.0/legalcode](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
-Copyright (c) 2025 twallet
+Copyright (c) 2025 Thomas Wallet
