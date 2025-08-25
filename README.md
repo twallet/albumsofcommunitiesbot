@@ -1,6 +1,6 @@
 # AlbumsOfCommunitiesBot
 
-Este es un bot de Telegram diseñado para ayudar a las comunidades a gestionar y archivar sus medios (fotos y videos) de forma organizada en álbumes de Google Drive.
+Es un bot de Telegram diseñado para ayudar a las comunidades a gestionar y archivar sus medios (fotos y videos) de forma organizada en álbumes de Google Drive.
 
 ## ¿Qué es?
 
