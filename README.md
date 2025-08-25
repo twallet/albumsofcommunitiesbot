@@ -35,7 +35,7 @@ Se puede usar gratuitamente el bot [@AlbumsOfCommunitiesBot](http://t.me/AlbumsO
 ## ¿Cómo funciona?
 El bot está construido con _**Google Apps Script**_, usa la _**API de Telegram**_ y guarda datos en _**Google Sheet**_. Toda la lógica se encuentro en los archivos .gs.  
 
-Webhook.gs El punto de entrada principal del bot, donde se gestionan todos los mensajes entrantes de Telegram.  
+`Webhook.gs`: El punto de entrada principal del bot, donde se gestionan todos los mensajes entrantes de Telegram.  
 Albums.gs: La entidad de álbumes y su lógica.   
 Telegram.gs: Un contenedor para la API del bot de Telegram.  
 Google Drive.gs: Un contenedor para la API de Google Drive  
