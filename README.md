@@ -13,7 +13,7 @@ Cuando los miembros de un grupo de Telegram envían fotos o videos, este bot los
 -   **Carga automática:** Sube automáticamente las fotos y videos enviados a un grupo de Telegram a la carpeta de Google Drive designada.
 -   **Gestión de álbumes:** Permite crear, eliminar y activar/desactivar álbumes para cada grupo.
 -   **Múltiples grupos:** El bot puede gestionar los álbumes de varios grupos de Telegram.
--   **Notificaciones:** Informa al grupo sobre acciones importantes como la creación/eliminación de álbumes o la subida de nuevos archivos, permitiendo a cualquier participante eliminar una foto o video del albúm.
+-   **Notificaciones:** Informa al grupo sobre acciones importantes como la creación/eliminación de álbumes o la subida de nuevos archivos, permitiendo a cualquier participante eliminar una foto o video del álbum.
 -   **Configuración privada:** La gestión de los álbumes se realiza en un chat privado con el bot para no saturar el chat del grupo.
 
 ## Comandos
@@ -26,7 +26,7 @@ Cuando los miembros de un grupo de Telegram envían fotos o videos, este bot los
 
 ## Uso
 
-Se puede usar gratuitamente el bot [@AlbumsOfCommunitiesBot](http://t.me/AlbumsOfCommunitiesBot) sumandolo a un grupo de Telegram.
+Se puede usar gratuitamente el bot [@AlbumsOfCommunitiesBot](http://t.me/AlbumsOfCommunitiesBot) sumándolo a un grupo de Telegram.
 
 ## Instrucciones
 
@@ -36,6 +36,6 @@ Se puede usar gratuitamente el bot [@AlbumsOfCommunitiesBot](http://t.me/AlbumsO
     -   En el chat privado, podrás crear un nuevo álbum.
     -   El bot te pedirá un nombre para el álbum.
     -   Luego, te pedirá la URL de una carpeta de Google Drive. **Importante:** Debes asegurarte de que el bot tenga permisos de edición en esa carpeta.
-4.  **Activar un álbum:** Una vez creado, puedes activarlo. Las fotos y videos que se envíen al grupo a partir de ese momento se subirán a esa carpeta (límite de 25Mb por elemento). Cualquier miembro del grupo de Telegram puede eliminar una foto o video que fue subido a un albúm.
+4.  **Activar un álbum:** Una vez creado, puedes activarlo. Las fotos y videos que se envíen al grupo a partir de ese momento se subirán a esa carpeta (límite de 25Mb por elemento). Cualquier miembro del grupo de Telegram puede eliminar una foto o video que fue subido a un álbum.
 
 [Más Información](https://thomaswallet.substack.com/publish/post/160280277)
