@@ -32,8 +32,8 @@ Se puede usar gratuitamente el bot [@AlbumsOfCommunitiesBot](http://t.me/AlbumsO
     -   Luego, te pedirá la URL de una carpeta de Google Drive. **Importante:** Debes asegurarte de que el bot tenga permisos de edición en esa carpeta.
 4.  **Activar un álbum:** Una vez creado, puedes activarlo. Las fotos y videos que se envíen al grupo a partir de ese momento se subirán a esa carpeta (límite de 25Mb por elemento). Cualquier miembro del grupo de Telegram puede eliminar una foto o video que fue subido a un álbum.
 
-## ¿Cómo funciona?
-El bot está construido con _**Google Apps Script**_, usa la _**API de Telegram**_ y guarda datos en _**Google Sheet**_. Toda la lógica se encuentro en los archivos `.gs`:  
+## Estructura del Código
+El bot está construido con _**Google Apps Script**_, usa la _**API de Telegram**_ y la _**API de Google Srive**_ y guarda datos en _**Google Sheet**_. Toda la lógica se encuentro en los archivos `.gs`:  
 
 `Webhook.gs` El punto de entrada principal del bot, donde se gestionan todos los mensajes entrantes de Telegram.  
 `Albums.gs` La entidad de álbumes y su lógica.   
